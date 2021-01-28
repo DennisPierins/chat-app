@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42f114de-a4c4-4625-9e78-19b0bbfefae5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ney7CzPGnhJ74zSSviJ7qtLgzU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42f114de-a4c4-4625-9e78-19b0bbfefae5" name="Default Changelist" comment="" />
+      <created>1611764681938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611764681938</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2320" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611825023038">
+      <screen x="1920" y="-103" width="1920" height="1040" />
+    </state>
+    <state x="2320" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.-103.1920.1040@1920.-103.1920.1040" timestamp="1611825023038" />
+    <state x="2266" y="113" width="1200" height="584" key="AVDManager" timestamp="1611826755578">
+      <screen x="1920" y="-103" width="1920" height="1040" />
+    </state>
+    <state x="2266" y="113" width="1200" height="584" key="AVDManager/0.0.1536.824/1920.-103.1920.1040@1920.-103.1920.1040" timestamp="1611826755578" />
+    <state x="2646" y="146" key="FileChooserDialogImpl" timestamp="1611765263611">
+      <screen x="1920" y="-103" width="1920" height="1040" />
+    </state>
+    <state x="2646" y="146" key="FileChooserDialogImpl/0.0.1536.824/1920.-103.1920.1040@1920.-103.1920.1040" timestamp="1611765263611" />
+    <state x="2536" y="109" key="NewModule_or_Project.wizard" timestamp="1611765278986">
+      <screen x="1920" y="-103" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="109" key="NewModule_or_Project.wizard/0.0.1536.824/1920.-103.1920.1040@1920.-103.1920.1040" timestamp="1611765278986" />
+    <state x="2367" y="49" key="SettingsEditor" timestamp="1611826624364">
+      <screen x="1920" y="-103" width="1920" height="1040" />
+    </state>
+    <state x="2367" y="49" key="SettingsEditor/0.0.1536.824/1920.-103.1920.1040@1920.-103.1920.1040" timestamp="1611826624364" />
+  </component>
+</project>
